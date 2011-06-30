@@ -26,9 +26,6 @@
 # -----------------------------------------------------------------------------
 # Updates
 #
-# 2011 Jun
-# - cce cleanup
-#
 # 2009 Mar 25
 # - added conditional so that date is only highlighted for current year
 # 
